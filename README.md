@@ -1,4 +1,4 @@
-# Docker Compose in 12 Minutes
+# Docker Compose
 
 Docker compose is a tool for defining and running multi-container Docker applications. How to write a `docker-compose.yml` file for a simple two-container style website.
 
